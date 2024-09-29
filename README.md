@@ -1,0 +1,2 @@
+# rftbeadando
+Rendszerfejlesztés Technológiája beadandó
