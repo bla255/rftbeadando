@@ -1,5 +1,5 @@
 # rftbeadando
-Rendszerfejlesztés Technológiája beadandó
+Rendszerfejlesztés Technológiája (BAI0168L) féléves beadandó
 
 Tagok: Kocserha Patrik, Orosz Richárd, Kulcsár Béla
 
